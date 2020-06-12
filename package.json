@@ -1,0 +1,20 @@
+{
+  "name": "avalanches-network",
+  "version": "0.0.1",
+  "scripts": {},
+  "description": "Dépôt officiel d'Avalanche's Network, y compris le site et le client",
+  "dependencies": {
+    "coffeescript": "^2.5.1",
+    "express": "^4.17.1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/avalanchesnetwork/network.git"
+  },
+  "author": "FellGill",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/avalanchesnetwork/network/issues"
+  },
+  "homepage": "https://github.com/avalanchesnetwork/network#readme"
+}
